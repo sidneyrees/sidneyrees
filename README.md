@@ -23,7 +23,7 @@ For more than 21 years I've worked across software development, project manageme
 - 70+ projects delivered
 - International team leadership
 - End-to-end product delivery
-- 99% client satisfaction
+- 100% Ownership Mentality
 
 ## Current Focus
 
