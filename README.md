@@ -6,7 +6,7 @@ For more than 21 years I've worked across software development, project manageme
 
 ![Experience](https://img.shields.io/badge/Experience-21%2B%20Years-blue)
 ![Projects](https://img.shields.io/badge/Projects-70%2B-green)
-![Focus](https://img.shields.io/badge/Focus-eCommerce%20%26%20AI-purple)
+![Focus](https://img.shields.io/badge/Focus-eCommerce-purple)
 
 ## What I Do
 
