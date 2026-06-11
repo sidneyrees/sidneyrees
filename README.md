@@ -1,4 +1,4 @@
-# Hi, I'm Sidney Rees 👋
+# Hello, I'm Sidney Rees 👋
 
 Technology & eCommerce Consultant helping businesses build, launch and scale digital products through technology, automation and strategic execution.
 
@@ -10,6 +10,7 @@ For more than 21 years I've worked across software development, project manageme
 
 ## What I Do
 
+- Fractional CTO
 - Fractional PMO
 - Technology Strategy
 - eCommerce Consulting
