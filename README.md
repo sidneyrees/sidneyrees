@@ -37,11 +37,15 @@ For more than 21 years I've worked across software development, project manageme
 
 ## Want More?
 
-- PMO Playbook -> https://github.com/sidneyrees/pmo-ecommerce-playbook
-- Headless Architectures -> https://github.com/sidneyrees/headless-ecommerce-architectures
-- Automation Agents -> https://github.com/sidneyrees/automation-agents-for-ecommerce
+- CTO / PMO eCommerce Playbook -> https://github.com/sidneyrees/pmo-ecommerce-playbook
+- Tech Radar -> https://github.com/sidneyrees/ecommerce-tech-radar
+- Success Stories & Real Cases -> https://github.com/sidneyrees/real-cases-and-success-stories
+- Automation & AI Agents for eCommerce -> https://github.com/sidneyrees/automation-agents-for-ecommerce
+- Project Recovery Kit -> https://github.com/sidneyrees/project-recovery-kit
 
-## Connect
+## I can help. Let's talk.
+
+Sidney Rees - Fractional CTO+PMO for eCommerce & Digital Businesses
 
 🌐 https://www.sidneyrees.com
 
