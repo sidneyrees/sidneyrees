@@ -34,6 +34,13 @@ For more than 21 years I've worked across software development, project manageme
 - Product Strategy
 - Technology Leadership
 
+
+## Want More?
+
+- PMO Playbook -> https://github.com/sidneyrees/pmo-ecommerce-playbook
+- Headless Architectures -> https://github.com/sidneyrees/headless-ecommerce-architectures
+- Automation Agents -> https://github.com/sidneyrees/automation-agents-for-ecommerce
+
 ## Connect
 
 🌐 https://www.sidneyrees.com
