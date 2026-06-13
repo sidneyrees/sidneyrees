@@ -18,6 +18,8 @@ For more than 21 years I've worked across software development, project manageme
 - Project Recovery
 - Product Delivery
 
+[Success Stories & Real Cases]https://github.com/sidneyrees/real-cases-and-success-stories
+
 ## Highlights
 
 - 21+ years of experience
@@ -33,7 +35,6 @@ For more than 21 years I've worked across software development, project manageme
 - AI Agents
 - Product Strategy
 - Technology Leadership
-
 
 ## Want More?
 
