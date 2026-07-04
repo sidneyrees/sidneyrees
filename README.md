@@ -1,30 +1,20 @@
 # Hello, I'm Sidney Rees 👋
 
-Technology & eCommerce Consultant helping businesses build, launch and scale digital products through technology, automation and strategic execution.
+**Fractional CTO+PMO for eCommerce** — I step in when growth stalls, vendors underdeliver, or systems can't scale, and turn CTO-level strategy into PMO-level execution.
 
-For more than 21 years I've worked across software development, project management, ecommerce and digital transformation, helping companies turn ideas into successful products and scalable operations.
+21+ years across software development, project management, and digital transformation, working globally (based in Argentina, English & Spanish).
 
 ![Experience](https://img.shields.io/badge/Experience-21%2B%20Years-blue)
 ![Projects](https://img.shields.io/badge/Projects-70%2B-green)
-![Focus](https://img.shields.io/badge/Focus-eCommerce-purple)
+![Focus](https://img.shields.io/badge/Focus-eCommerce%20%26%20AI-purple)
 
 ## What I Do
 
-- Fractional CTO
-- Fractional PMO
-- Technology Strategy
-- eCommerce Consulting
-- Automation & AI
-- Project Recovery
-- Product Delivery
-
-## Highlights
-
-- 21+ years of experience
-- 70+ projects delivered
-- International team leadership
-- End-to-end product delivery
-- 100% Ownership Mentality
+- 🎯 Fractional CTO + PMO leadership for growing eCommerce businesses
+- 🏗️ Technology strategy, architecture, and vendor risk management
+- 📦 End-to-end product delivery and roadmap execution
+- 🚑 Emergency migrations & crisis recovery
+- 🤖 Automation & AI-driven operations
 
 ## Current Focus
 
@@ -34,6 +24,16 @@ For more than 21 years I've worked across software development, project manageme
 - Product Strategy
 - Technology Leadership
 
+## Featured Work
+
+**⚙️ Marketplace automation** — Connected Mercado Libre and WooCommerce, automated stock sync, and redesigned the fulfillment workflow, doubling sales from week one and cutting operational workload by 50%.
+→ [Read the case study](https://github.com/sidneyrees/real-cases-and-success-stories#case-study-3-used-books-marketplace)
+
+**🚨 Emergency migration & data recovery** — Recovered 40,000+ products and 8,000+ customer records from vendor lock-in in 7 days with zero downtime, using custom Python recovery bots and a new WooCommerce infrastructure.
+→ [Read the case study](https://github.com/sidneyrees/real-cases-and-success-stories#case-study-1-emergency-migration--data-recovery)
+
+More documented cases: **[real-cases-and-success-stories](https://github.com/sidneyrees/real-cases-and-success-stories)**
+
 ## Want More?
 
 - CTO / PMO eCommerce Playbook -> https://github.com/sidneyrees/pmo-ecommerce-playbook
@@ -42,12 +42,15 @@ For more than 21 years I've worked across software development, project manageme
 - Automation & AI Agents for eCommerce -> https://github.com/sidneyrees/automation-agents-for-ecommerce
 - Project Recovery Kit -> https://github.com/sidneyrees/project-recovery-kit
 
-## I can help. Let's talk.
+## Highlights
 
-Sidney Rees - Fractional CTO+PMO for eCommerce & Digital Businesses
+- 21+ years of experience · 70+ projects delivered
+- Platforms: Shopify, WooCommerce, Medusa.js, Saleor, AWS
+- International team & vendor leadership
+- 99% client satisfaction
 
-🌐 https://www.sidneyrees.com
+## Let's Connect
 
-💼 [LinkedIn](https://www.linkedin.com/in/sidneyrees)
+🌐 [sidneyrees.com](https://sidneyrees.com) — book a free 30-minute eCommerce tech diagnostic
 
-📫 Available for consulting opportunities
+📫 Available for fractional CTO+PMO engagements
