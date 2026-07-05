@@ -1,6 +1,6 @@
-# Hello, I'm Sidney Rees 👋
+# Fractional CTO+PMO for eCommerce
 
-**Fractional CTO+PMO for eCommerce** — I step in when growth stalls, vendors underdeliver, or systems can't scale, and turn CTO-level strategy into PMO-level execution.
+**Hello, I'm Sidney Rees** 👋 — I step in when growth stalls, vendors underdeliver, or systems can't scale, and turn CTO-level strategy into PMO-level execution.
 
 21+ years across software development, project management, and digital transformation, working globally (based in Argentina, English & Spanish).
 
