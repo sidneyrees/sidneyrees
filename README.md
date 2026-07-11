@@ -1,12 +1,14 @@
+![Sidney Rees — Fractional CTO+PMO for eCommerce](./assets/banner.png)
+
 # Fractional CTO+PMO for eCommerce
 
 **Hello, I'm Sidney Rees** 👋 — I step in when growth stalls, vendors underdeliver, or systems can't scale, and turn CTO-level strategy into PMO-level execution.
 
 21+ years across software development, project management, and digital transformation, working globally (based in Argentina, English & Spanish).
 
-![Experience](https://img.shields.io/badge/Experience-21%2B%20Years-blue)
-![Projects](https://img.shields.io/badge/Projects-70%2B-green)
-![Focus](https://img.shields.io/badge/Focus-eCommerce%20%26%20AI-purple)
+![Experience](https://img.shields.io/badge/Experience-21%2B%20Years-D9A441)
+![Projects](https://img.shields.io/badge/Projects-70%2B-D9A441)
+![Focus](https://img.shields.io/badge/Focus-eCommerce%20%26%20AI-D9A441)
 
 ## What I Do
 
@@ -38,11 +40,18 @@ More documented cases: **[real-cases-and-success-stories](https://github.com/sid
 
 Sidney doesn't just consult on AI and automation — he built the companies that prove it out:
 
-| | | |
-|---|---|---|
-| 🟡 **Sidney Rees** | Authority & Strategy | Fractional CTO/PMO — the philosophy |
-| 🔵 **[Sigma Reef](https://sigmareef.com)** | E-commerce AI & Automation | Scaling DTC/e-commerce brands |
-| 🟢 **[Cadence Ridge](https://cadenceridge.com)** | SMB Automation & AI Agents | Freeing SMB teams from repetitive work |
+```mermaid
+flowchart LR
+    A["🔵 Sigma Reef<br/>E-commerce AI & Automation"]
+    B["🟡 Sidney Rees<br/>Authority & Strategy"]
+    C["🟢 Cadence Ridge<br/>SMB Automation & AI Agents"]
+    A --- B --- C
+    style A fill:#2452C4,stroke:#17337a,color:#ffffff
+    style B fill:#D9A441,stroke:#8a6a1f,color:#111111
+    style C fill:#14A897,stroke:#0c6359,color:#111111
+```
+
+🔵 [Sigma Reef](https://sigmareef.com) · 🟡 [Sidney Rees](https://sidneyrees.com) · 🟢 [Cadence Ridge](https://cadenceridge.com)
 
 > Three forces. One philosophy: human-centric automation, engineered by Sidney Rees.
 
