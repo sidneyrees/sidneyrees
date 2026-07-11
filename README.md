@@ -34,6 +34,18 @@
 
 More documented cases: **[real-cases-and-success-stories](https://github.com/sidneyrees/real-cases-and-success-stories)**
 
+## The Ecosystem
+
+Sidney doesn't just consult on AI and automation — he built the companies that prove it out:
+
+| | | |
+|---|---|---|
+| 🟡 **Sidney Rees** | Authority & Strategy | Fractional CTO/PMO — the philosophy |
+| 🔵 **[Sigma Reef](https://sigmareef.com)** | E-commerce AI & Automation | Scaling DTC/e-commerce brands |
+| 🟢 **[Cadence Ridge](https://cadenceridge.com)** | SMB Automation & AI Agents | Freeing SMB teams from repetitive work |
+
+> Three forces. One philosophy: human-centric automation, engineered by Sidney Rees.
+
 ## Want More?
 
 - CTO / PMO eCommerce Playbook -> https://github.com/sidneyrees/pmo-ecommerce-playbook
