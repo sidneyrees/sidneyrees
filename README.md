@@ -46,13 +46,19 @@ Sidney doesn't just consult on AI and automation — he built the companies that
 
 > Three forces. One philosophy: human-centric automation, engineered by Sidney Rees.
 
-## Want More?
+## Next Step
 
-- CTO / PMO eCommerce Playbook -> https://github.com/sidneyrees/pmo-ecommerce-playbook
-- Tech Radar -> https://github.com/sidneyrees/ecommerce-tech-radar
-- Success Stories & Real Cases -> https://github.com/sidneyrees/real-cases-and-success-stories
-- Automation & AI Agents for eCommerce -> https://github.com/sidneyrees/automation-agents-for-ecommerce
-- Project Recovery Kit -> https://github.com/sidneyrees/project-recovery-kit
+**→ [See it proven in real client engagements](https://github.com/sidneyrees/real-cases-and-success-stories)** — actual numbers, actual outcomes.
+
+<details>
+<summary>More resources</summary>
+
+- CTO / PMO eCommerce Playbook → https://github.com/sidneyrees/pmo-ecommerce-playbook
+- Tech Radar → https://github.com/sidneyrees/ecommerce-tech-radar
+- Automation & AI Agents for eCommerce → https://github.com/sidneyrees/automation-agents-for-ecommerce
+- Project Recovery Kit → https://github.com/sidneyrees/project-recovery-kit
+
+</details>
 
 ## Highlights
 
