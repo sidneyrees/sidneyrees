@@ -71,7 +71,6 @@ flowchart LR
 
 ## Highlights
 
-- 21+ years of experience · 70+ projects delivered
 - Platforms: Shopify, WooCommerce, Medusa.js, Saleor, AWS
 - International team & vendor leadership
 - 99% client satisfaction
