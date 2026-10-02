@@ -1,82 +1,72 @@
-![Sidney Rees — Fractional CTO+PMO for eCommerce](./assets/banner.png)
+![Sidney Rees, Fractional CTO and PMO for eCommerce](./assets/banner.png)
 
-# Fractional CTO+PMO for eCommerce
+# Sidney Rees: Fractional CTO + PMO for eCommerce
 
-**Hello, I'm Sidney Rees** 👋 — I step in when growth stalls, vendors underdeliver, or systems can't scale, and turn CTO-level strategy into PMO-level execution.
+I fix the technology side of eCommerce companies when growth stalls, vendors don't deliver, or the platform can't scale. CTO-level decisions and PMO-level execution, same person. WooCommerce expert.
 
-21+ years across software development, project management, and digital transformation, working globally (based in Argentina, English & Spanish).
+Proof: recovered 40,000+ products and 8,000+ customer records from vendor lock-in in 7 days, zero downtime.
 
-![Experience](https://img.shields.io/badge/Experience-21%2B%20Years-D9A441)
-![Projects](https://img.shields.io/badge/Projects-70%2B-D9A441)
-![Focus](https://img.shields.io/badge/Focus-eCommerce%20%26%20AI-D9A441)
+**[Book a free 30-min eCommerce tech diagnostic →](https://sidneyrees.com/?utm_source=github&utm_medium=profile&utm_campaign=readme_top)**
+You leave with the 3 biggest risks in your stack and vendor setup, and what I'd fix first.
 
-## What I Do
+## When to call me
 
-- 🎯 Fractional CTO + PMO leadership for growing eCommerce businesses
-- 🏗️ Technology strategy, architecture, and vendor risk management
-- 📦 End-to-end product delivery and roadmap execution
-- 🚑 Emergency migrations & crisis recovery
-- 🤖 Automation & AI-driven operations
+- Your roadmap slipped and nobody can give you a real ship date
+- An agency or vendor controls your data, code, or access, and isn't delivering
+- Your WooCommerce store slows down or breaks as catalog, traffic, or integrations grow
+- Operations run on manual work: stock sync, order routing, spreadsheets between systems
+- A migration, recovery, or vendor transition has become business-critical
 
-## Current Focus
+## Results
 
-- eCommerce Operations
-- Business Automation
-- AI Agents
-- Product Strategy
-- Technology Leadership
+**40,000+ products recovered. 8,000+ customers migrated. 7 days. Zero downtime.**
+A vendor held the store's data hostage. I built Python recovery bots, stood up new WooCommerce infrastructure, and ran extraction and migration in parallel.
+[Read the case study →](https://github.com/sidneyrees/real-cases-and-success-stories#case-study-1-emergency-migration--data-recovery)
 
-## Featured Work
+**Sales doubled from week one. Manual workload down 50%.**
+Connected Mercado Libre with WooCommerce, automated stock sync, and redesigned the fulfillment workflow.
+[Read the case study →](https://github.com/sidneyrees/real-cases-and-success-stories#case-study-3-used-books-marketplace)
 
-**⚙️ Marketplace automation** — Connected Mercado Libre and WooCommerce, automated stock sync, and redesigned the fulfillment workflow, doubling sales from week one and cutting operational workload by 50%.
-→ [Read the case study](https://github.com/sidneyrees/real-cases-and-success-stories#case-study-3-used-books-marketplace)
+[All documented cases →](https://github.com/sidneyrees/real-cases-and-success-stories)
 
-**🚨 Emergency migration & data recovery** — Recovered 40,000+ products and 8,000+ customer records from vendor lock-in in 7 days with zero downtime, using custom Python recovery bots and a new WooCommerce infrastructure.
-→ [Read the case study](https://github.com/sidneyrees/real-cases-and-success-stories#case-study-1-emergency-migration--data-recovery)
+## How we work
 
-More documented cases: **[real-cases-and-success-stories](https://github.com/sidneyrees/real-cases-and-success-stories)**
+1. **Free diagnostic (30 min):** risks, quick wins, what to fix first
+2. **Fixed-scope project:** migration, recovery, integration, or vendor turnaround, with a defined deliverable
+3. **Fractional retainer:** ongoing CTO + PMO ownership of roadmap, vendors, delivery, and QA
 
-## The Ecosystem
+Satisfaction guaranteed.
 
-Sidney doesn't just consult on AI and automation — he built the companies that prove it out:
+## Background
 
-```mermaid
-flowchart LR
-    A["🔵 Sigma Reef<br/>E-commerce AI & Automation"]
-    B["🟡 Sidney Rees<br/>Authority & Strategy"]
-    C["🟢 Cadence Ridge<br/>SMB Automation & AI Agents"]
-    A --- B --- C
-    style A fill:#2452C4,stroke:#17337a,color:#ffffff
-    style B fill:#D9A441,stroke:#8a6a1f,color:#111111
-    style C fill:#14A897,stroke:#0c6359,color:#111111
-```
+21+ years: software engineer → senior engineer → team lead → project manager → head of project managers. 70+ projects delivered.
+Information Systems Engineering (UTN) · Scrum Master · vendor management, budgets, risk, QA oversight.
+Based in Argentina (UTC-3, overlaps with US business hours) · English and Spanish.
 
-🔵 [Sigma Reef](https://sigmareef.com) · 🟡 [Sidney Rees](https://sidneyrees.com) · 🟢 [Cadence Ridge](https://cadenceridge.com)
+## Hands-on: what I build
 
-> Three forces. One philosophy: human-centric automation, engineered by Sidney Rees.
+I still write and ship code. Recent work:
 
-## Next Step
+- **Content Foundry**: multi-tenant, agent-ready CMS / API / MCP server on Cloudflare Workers, D1 and R2, with a GitHub App
+- **Signal Relay**: distribution and publishing layer with job tracking
+- **Agentic ops environment** (Hermes / OpenClaw): scheduled autonomous jobs, reusable skills, model routing, human-in-the-loop approvals
+- **[Radar IA](https://github.com/sidneyrees/radar-ia)**: Next.js + TypeScript PWA that aggregates AI tool releases into one feed
+- MCP servers and Chrome extensions built with agentic coding (Claude Code, Codex)
 
-**→ [See it proven in real client engagements](https://github.com/sidneyrees/real-cases-and-success-stories)** — actual numbers, actual outcomes.
+Stack: WooCommerce · PHP, TypeScript, Next.js, React, Node.js, Python · Cloudflare, Vercel · n8n, MCP, GitHub Actions
 
 <details>
-<summary>More resources</summary>
+<summary>Free resources</summary>
 
-- CTO / PMO eCommerce Playbook → https://github.com/sidneyrees/pmo-ecommerce-playbook
-- Tech Radar → https://github.com/sidneyrees/ecommerce-tech-radar
-- Automation & AI Agents for eCommerce → https://github.com/sidneyrees/automation-agents-for-ecommerce
-- Project Recovery Kit → https://github.com/sidneyrees/project-recovery-kit
+- [CTO / PMO eCommerce Playbook](https://github.com/sidneyrees/pmo-ecommerce-playbook)
+- [Project Recovery Kit](https://github.com/sidneyrees/project-recovery-kit)
+- [Automation & AI Agents for eCommerce](https://github.com/sidneyrees/automation-agents-for-ecommerce)
+- [eCommerce Tech Radar](https://github.com/sidneyrees/ecommerce-tech-radar)
 
 </details>
 
-## Highlights
+## Next step
 
-- Platforms: Shopify, WooCommerce, Medusa.js, Saleor, AWS
-- International team & vendor leadership
-- 99% client satisfaction
+**[Book a free 30-min eCommerce tech diagnostic →](https://sidneyrees.com/?utm_source=github&utm_medium=profile&utm_campaign=readme_bottom)**
 
-## Let's Connect
-
-🌐 [sidneyrees.com](https://sidneyrees.com) — book a free 30-minute eCommerce tech diagnostic
-
-📫 Available for fractional CTO+PMO engagements
+I also run [Sigma Reef](https://sigmareef.com) (WooCommerce growth partner for DTC brands) and [Cadence Ridge](https://cadenceridge.com) (AI automation for US SMBs).
